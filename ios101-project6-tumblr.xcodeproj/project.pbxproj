@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E25285BE2BB5DDBC00632F7E /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25285BD2BB5DDBC00632F7E /* DetailViewController.swift */; };
+		E25285C02BB5F1FC00632F7E /* tumblr2.gif in Resources */ = {isa = PBXBuildFile; fileRef = E25285BF2BB5F1FC00632F7E /* tumblr2.gif */; };
 		ED54EF4D29D5382800B6AD22 /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED54EF4C29D5382800B6AD22 /* String+Extensions.swift */; };
 		ED59161029BC307D000F25AE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED59160F29BC307D000F25AE /* AppDelegate.swift */; };
 		ED59161229BC307D000F25AE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED59161129BC307D000F25AE /* SceneDelegate.swift */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		E25285BD2BB5DDBC00632F7E /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		E25285BF2BB5F1FC00632F7E /* tumblr2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tumblr2.gif; sourceTree = "<group>"; };
 		ED54EF4C29D5382800B6AD22 /* String+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extensions.swift"; sourceTree = "<group>"; };
 		ED59160C29BC307D000F25AE /* ios101-project6-tumblr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios101-project6-tumblr.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED59160F29BC307D000F25AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -50,6 +52,7 @@
 		ED59160329BC307D000F25AE = {
 			isa = PBXGroup;
 			children = (
+				E25285BF2BB5F1FC00632F7E /* tumblr2.gif */,
 				ED59160E29BC307D000F25AE /* ios101-project6-tumblr */,
 				ED59160D29BC307D000F25AE /* Products */,
 			);
@@ -148,6 +151,7 @@
 				ED59161C29BC307E000F25AE /* LaunchScreen.storyboard in Resources */,
 				ED59161929BC307E000F25AE /* Assets.xcassets in Resources */,
 				ED59161729BC307D000F25AE /* Main.storyboard in Resources */,
+				E25285C02BB5F1FC00632F7E /* tumblr2.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
